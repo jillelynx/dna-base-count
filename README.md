@@ -16,6 +16,10 @@ markdown
 Copy
 
 ## Example Output
+
+Here is a bar graph showing the count of each DNA base (A, T, C, G) in the sample sequence:
+
+![DNA Base Count Graph](dna_base_count_graph.png)
 - The `dna_counter.py` script prints the counts of each DNA base.
 - The `dna_visualize.py` script displays a bar chart showing base counts.
 
